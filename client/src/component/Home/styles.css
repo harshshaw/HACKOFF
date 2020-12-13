@@ -1,0 +1,118 @@
+.navbar-nav li
+{
+    padding:  0 10px;
+    
+}
+.nav-link
+{
+    color: #555!important;
+    font-weight: 500;
+    font-size: 1.2rem;
+    font-family: 'montserrat', sans-serif !important;
+}
+.navbar-nav li a
+{
+    float: right;
+    text-align: left;
+    
+}
+.navbar-nav li a:hover
+{
+    color: rgb(31, 46, 255) !important;
+    /* background-color: #0080ff; */
+    border-radius: 12px;
+}
+.carousel-caption.first
+{
+    top: 25%;
+    transform: translateY(-80%);
+    transform: translateX(-20%);
+    bottom: initial!important;
+}
+.carousel-caption.second
+{
+    top: 70%;
+    transform: translateY(-80%);
+    transform: translateX(-40%);
+    bottom: initial!important;
+}
+.carousel-caption.third
+{
+  top: 5%;
+  transform: translateY(-80%);
+  transform: translateX(-40%);
+  bottom: initial!important;
+}
+.carousel-caption h3
+{
+  font-family: 'montserrat';
+  color: black;
+  font-size: 45px;
+    
+}
+
+.carousel-item {
+  height: 90vh;
+  width: 100%;
+  align-items: center;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  /* border-radius: 20px; */
+}
+.sign-in {
+  position: absolute;
+  right: 3%;
+}
+.sign-up {
+  position: absolute;
+  right: 6%;
+}
+.navBg {
+  background-color: transparent;
+}
+.background-of-navbar {
+  background-color: #f6be00;
+}
+.brandName {
+  margin-left: 7%;
+}
+body {
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  line-height: 1.5;
+}
+h2,
+h3 {
+  font-weight: 700;
+}
+
+p {
+  color: black;
+}
+
+/* .arrow {
+  background-color: #06d2f7 !important;
+  padding: 5px;
+  color : blue !important;
+} */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  filter: invert(100%);
+}
+
+/* .pho-bg {
+  background-color: #f6be00;
+} */
