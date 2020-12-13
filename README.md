@@ -60,10 +60,9 @@ Keeping all the conerns in our mind , we have tried to develop a smart AI Based 
   3. Plagirism Detection - Using Natural Language Processing Techniques and cosine similarity , our app can identify whether two students uploaded documents content have been plagirised or not .
   4. Auto Evaluate  - Using Narural Language Processing Techiniques , this app can automatically evaluate a student's answer sheet and can evaluate it against original answer ky provided by faculty and can calculate marks easily. 
   5. Student Dropout- Using Machine Learning , our app can easily predict whether a particualr student is on verge of getting arrears or dropouts.This can help him to connect with suitable faculties who mught help them to prepare for the fortcoming exams accordingly.This way , Faculty can help them remotely address their concerns and doubts
-   6. Student Counsel- Using Machine Learning , our app can easily help a student identify which type of a job role would be suitable for him , based on inputs as in skills and experience received by user.This way , Faculty can help them remotely address their concerns and doubts reagrding their future aspects and can help them to train and prepare in suitable manner.
-   
-  7.Fully Secured - Uses a Autheticated Login Backend For Teachers and Students SeparatelY to keep track of their respective data.
-  8. Stores All the Previous Logs- Marks , Reports  in Database and can be easily retrieved using this App (PyMongo)
+   6. Student Counsel- Using Machine Learning , our app can easily help a student identify which type of a job role would be suitable for him , based on inputs as in skills and experience received by user.This way , Faculty can help them remotely address their concerns and doubts reagrding their future aspects and can help them to train and prepare in suitable manner.   
+   7.Fully Secured - Uses a Autheticated Login Backend For Teachers and Students Separately to keep track of their respective data.<br>
+   8. Stores All the Previous Logs- Marks , Reports  in Database and can be easily retrieved using this App (PyMongo)
   
   #### Demo :
   <img src="https://github.com/harshshaw/HACKOFF/blob/main/Profiles_Pics/sample1.jpeg">
