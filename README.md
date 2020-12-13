@@ -22,9 +22,27 @@ Keeping all the conerns in our mind , we have tried to develop a smart AI Based 
 #### Demo :
 
 
+### Tech Stack:
+##### Machine Learning /AI Based Tech Stack :
+
+  1. Natural Language Processing
+  2. NLTK
+  3. CountVectoriser
+  4. Tfidf Transformer
+  5. Gensim
+  6. Spacy
+  7. Scikit-Learn
+  8. XgBoosting
+  9. Decision Trees
+  10. Pytessearct-OCR Engine
+  11. OpenCV
+
+
+
+
 #### Features:
 
-  1. Pdf text Extraction - Using Pytesseract and Opencv and Pdf-plumber libray, Text Can be extracted by the pdf documents.
+  1. Pdf Optical Character Recognition based text Extraction [OCR]- Using Pytesseract and Opencv and Pdf-plumber libray, Text Can be extracted by the pdf documents.
   2. Summarizer and keyword extraction- Analyses Pdf 's Text and returns summary and main points and keywords of student's answer sheet.
   3. Plagirism Detection - Using Natural Language Processing Techniques and cosine similarity , our app can identify whether two students uploaded documents content have been plagirised or not .
   4. Auto Evaluate  - Using Narural Language Processing Techiniques , this app can automatically evaluate a student's answer sheet and can evaluate it against original answer ky provided by faculty and can calculate marks easily. 
