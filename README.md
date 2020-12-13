@@ -14,7 +14,8 @@ The COVID-19 pandemic has had a number of consequences in different Sectors, one
 Unfortunately,Due to lack of physical interaction within school premisis , students and teachers had tried to adopt certain ways to address their concerns in virtual way.Whether it was traditional way of dealing with exams by faculties or students , or how students interacted with their teachers regarding their doubts , aspirations ,concerns , Virtual Distance is something which has been a major problem in this sector and not that effective as compared to physical and remote way!
 
 ### The Solution
-Keeping all the conerns in our mind , we have tried to develop a smart AI Based digital Platform Using Machine Learning /AI and Web based skills to make a secure web application , which aims to analyze the user's information,it can be a Faculty or Student. Using Appropriate Tech Stack , this app tries to analyse and resolve
+Keeping all the conerns in our mind , we have tried to develop a smart AI Based digital Platform Using Machine Learning /AI and Web based skills to make a secure web application , which aims to analyze the user's information,it can be a Faculty or Student. Using Appropriate Tech Stack , this app tries to analyse and solve the problem of online assignment upload, to check plagiarism of the assignments sent by the students, the teacher can check if any student had copied the assignments or not through our ML model, to give a short summary and finding the main key points in the assignment so that it could save time for the teacher and student counselling where student can predict a career or predict dropout rate using our ml model.
+
 
 #### How It Works:
   1. This app is fully secured and will request access with login information of Faculty/Student
