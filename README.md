@@ -76,7 +76,7 @@ Keeping all the conerns in our mind , we have tried to develop a smart AI Based 
 Harsh Shaw
 
 <p align="center">
-<img src = ""  height="120" alt="Harsh Shaw">
+<img src = "https://github.com/harshshaw/HACKOFF/blob/main/Profiles_Pics/Harsh%20Shaw.jpeg"  height="120" alt="Harsh Shaw">
 </p>
 <p align="center">
 <a href = ""><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
@@ -92,7 +92,7 @@ Harsh Shaw
 Harsh Sharma
 
 <p align="center">
-<img src = ""  height="120" alt="Harsh Sharma">
+<img src = "https://github.com/harshshaw/HACKOFF/blob/main/Profiles_Pics/Harsh%20Sharma.jpg"  height="120" alt="Harsh Sharma">
 </p>
 <p align="center">
 <a href = "https://github.com/harshgeek4coder"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
@@ -123,7 +123,7 @@ Rishabh Abhani
 Sulaksh Sharma
 
 <p align="center">
-<img src = ""  height="120" alt="Sulaksh Sharma">
+<img src = "https://github.com/harshshaw/HACKOFF/blob/main/Profiles_Pics/Sulaksh%20Sharma.jpeg"  height="120" alt="Sulaksh Sharma">
 </p>
 <p align="center">
 <a href = ""><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
@@ -140,7 +140,7 @@ Sulaksh Sharma
 Preetam Sarkar
 
 <p align="center">
-<img src = "  height="120" alt="Preetam Sarkar">
+<img src = "https://github.com/harshshaw/HACKOFF/blob/main/Profiles_Pics/Preetam%20Sarkar.jpeg"  height="120" alt="Preetam Sarkar">
 </p>
 <p align="center">
 <a href = ""><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
