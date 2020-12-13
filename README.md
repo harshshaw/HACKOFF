@@ -1,7 +1,7 @@
 ## HackOff 3.0-Team Push That Code
 
 ## Knewton Ed - Smart AI-Digital Based Solutions for Education Analysing
-<img src="">
+<img src="https://github.com/harshshaw/HACKOFF/blob/main/Profiles_Pics/main%20read.png">
 
 
 ### Abstract
@@ -19,7 +19,7 @@ Keeping all the conerns in our mind , we have tried to develop a smart AI Based 
 #### How It Works:
   1. This app is fully secured and will request access with login information of Faculty/Student
      
-#### Demo :
+
 
 
 ### Tech Stack:
@@ -61,6 +61,12 @@ Keeping all the conerns in our mind , we have tried to develop a smart AI Based 
   5. Student Dropout- Using Machine Learning , our app can easily predict whether a particualr student is on verge of getting arrears or dropouts.This can help him to connect with suitable faculties who mught help them to prepare for the fortcoming exams accordingly.This way , Faculty can help them remotely address their concerns and doubts
    5. Student Counsel- Using Machine Learning , our app can easily help a student identify which type of a job role would be suitable for him , based on inputs as in skills and experience received by user.This way , Faculty can help them remotely address their concerns and doubts reagrding their future aspects and can help them to train and prepare in suitable manner.
   6. Stores All the Previous Logs in Database (PyMongo)
+  
+  #### Demo :
+  <img src="https://github.com/harshshaw/HACKOFF/blob/main/Profiles_Pics/sample1.jpeg">
+    <img src="https://github.com/harshshaw/HACKOFF/blob/main/Profiles_Pics/sample2.jpeg">
+      <img src="https://github.com/harshshaw/HACKOFF/blob/main/Profiles_Pics/sample3.jpeg">
+        <img src="https://github.com/harshshaw/HACKOFF/blob/main/Profiles_Pics/sample4.jpeg">
  
 #### Future Prospects (Tentatively):
 
