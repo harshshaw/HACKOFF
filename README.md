@@ -108,7 +108,7 @@ Harsh Sharma
 Rishabh Abhani
 
 <p align="center">
-<img src = ""  height="120" alt="Rishabh Abhani">
+<img src = "https://github.com/harshshaw/HACKOFF/blob/main/Profiles_Pics/Rishabh%20Abhani.jpeg"  height="120" alt="Rishabh Abhani">
 </p>
 <p align="center">
 <a href = ""><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
