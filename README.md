@@ -37,8 +37,20 @@ Keeping all the conerns in our mind , we have tried to develop a smart AI Based 
   10. Pytessearct-OCR Engine
   11. OpenCV
 
+##### Frontend Tech Stack :
 
+1. Html and CSS
+2. ReactJS
 
+##### Backend Tech Stack :
+
+1. NodeJS
+2. ExpressJS which is a NodeJS Framework
+3. Flask which is a Python Framework
+
+##### Database Tech Stack:
+
+1. MongoDB
 
 #### Features:
 
