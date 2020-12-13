@@ -17,8 +17,7 @@ Unfortunately,Due to lack of physical interaction within school premisis , stude
 Keeping all the conerns in our mind , we have tried to develop a smart AI Based digital Platform Using Machine Learning /AI and Web based skills to make a secure web application , which aims to analyze the user's information,it can be a Faculty or Student. Using Appropriate Tech Stack , this app tries to analyse and solve the problem of online assignment upload, to check plagiarism of the assignments sent by the students, the teacher can check if any student had copied the assignments or not through our ML model, to give a short summary and finding the main key points in the assignment so that it could save time for the teacher and student counselling where student can predict a career or predict dropout rate using our ml model.
 
 
-#### How It Works:
-  1. This app is fully secured and will request access with login information of Faculty/Student
+
      
 
 
@@ -83,6 +82,9 @@ Keeping all the conerns in our mind , we have tried to develop a smart AI Based 
    5.Finding Proper Datasets<br>
    6.Hosting Ml models<br>
    7.Creating a Great UI Exp
+   
+ ###   CONCLUSION:-
+This can help to increase and strengthen interaction and communication between faculty and student more efficiecntly and can help to deliver and tackle complex solutions more easily !
 
   
   
