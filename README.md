@@ -95,8 +95,8 @@ Harsh Shaw
 <img src = "https://github.com/harshshaw/HACKOFF/blob/main/Profiles_Pics/Harsh%20Shaw.jpeg"  height="120" alt="Harsh Shaw">
 </p>
 <p align="center">
-<a href = ""><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "">
+<a href = "https://github.com/harshshaw"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/harsh-shaw-070105174/">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
